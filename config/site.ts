@@ -25,11 +25,11 @@ export const siteConfig = {
       href: "/#faq",
       icon: "faq",
     },
-    {
-      title: "Blog",
-      href: "/#",
-      icon: "blog",
-    },
+    // {
+    //   title: "Blog",
+    //   href: "/#",
+    //   icon: "blog",
+    // },
     {
       title: "Contact",
       href: "/contact",
