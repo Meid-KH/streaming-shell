@@ -1,22 +1,17 @@
 # next-template
 
-A Next.js 13 template for building apps with Radix UI and Tailwind CSS.
+A TV Streaming provider using Next JS 13 and WordPress ad Headlesss CMS,
 
-## Usage
-
-```bash
-npx create-next-app -e https://github.com/shadcn/next-template
-```
-
-## Features
+## Tech-stack
 
 - Next.js 13 App Directory
-- Radix UI Primitives
+- Typescript
+- [ShadCN](https://ui.shadcn.com/)
 - Tailwind CSS
 - Icons from [Lucide](https://lucide.dev)
-- Dark mode with `next-themes`
 - Tailwind CSS class sorting, merging and linting.
 
-## License
+## APIs
 
-Licensed under the [MIT license](https://github.com/shadcn/ui/blob/main/LICENSE.md).
+- WordPress as Headless CMS
+- [Airtable](https://www.airtable.com/)

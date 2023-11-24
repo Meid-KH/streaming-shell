@@ -31,7 +31,7 @@ export default function IndexPage() {
       <Pricing />
       <Trial />
       <Features />
-      {/* <BlogList /> */}
+      <BlogList />
       <Testimonials />
       <WhyChooseUs />
       <Faq />
